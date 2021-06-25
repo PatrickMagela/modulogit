@@ -1,1 +1,1 @@
-Meu Primeiro Arquivo no Git (Alterado e atualizadoclea)
+Meu Primeiro Arquivo no Git (Alterado e atualizado)
